@@ -94,7 +94,7 @@ segurança × faturamento × dívida). "Porque é mais seguro" não é justifica
 
 <2 a 3 linhas: mecanismo técnico + trade-off>
 
-**Placar do grupo após esta decisão:** 🔥 __ · 💰 R$ __ mil · 🧹 __
+**Placar do grupo após esta decisão:** 🔥 9 · 💰 R$ 25 mil · 🧹 2
 ```
 
 *(as decisões entram aqui, na ordem em que a madrugada as trouxer; placar inicial:
